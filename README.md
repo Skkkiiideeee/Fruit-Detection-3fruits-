@@ -55,7 +55,7 @@ This ML model was later integrated into a mobile app by our team as part of a co
 - 👩‍💻 **Sugyani Krishnadarsinee** – ML development (this repository)  
 - 🤝 [Rahul Saha](https://github.com/Rahulsaha30),[Srishti Singh](https://github.com/srish01ti) – Mobile app  
 - 🤝 [Rohit Agarwal](https://github.com/rohitagr1) – API backend, Integration  
-- 🤝 Sreeja Upadhyaya – Research and UI design
+- 🤝 [Sreeja Upadhyaya](https://github.com/build-sreeja) – Research and UI design
 
 
 ## 📃 License
