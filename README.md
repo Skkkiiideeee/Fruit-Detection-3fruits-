@@ -35,7 +35,7 @@ Total: ~14,000 images across 6 fruits (Apple, Banana, Orange, Peach, Pomegranate
 
 ## 📊 Model Performance
 
-- ✅ Accuracy: ~90% on validation set
+- ✅ Accuracy: 92.3% accuracy on the [Fruits Dataset by Ali Hasnain](https://www.kaggle.com/datasets/alihasnainch/fruits-dataset-for-classification) dataset and [Fruits Fresh or Rotten by Sriram Reddy](https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification) dataset 
 - ✅ Fine-tuned top 20 layers of ResNet50
 - ✅ Used data augmentation (rotation, flip, shift, color jitter) to reduce overfitting
 - 📈 Visualizations include loss/accuracy plots and confusion matrices
